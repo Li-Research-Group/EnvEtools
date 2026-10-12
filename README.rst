@@ -48,5 +48,5 @@ Development of EnvEtools is led by `Yalin Li <https://yalinli.group/>`_. Please 
 
 License information
 -------------------
-Please refer to the `LICENSE </LICENSE>`_ for information on the terms & conditions for usage of this software, and a DISCLAIMER OF ALL WARRANTIES.
+Please refer to the `LICENSE.txt </LICENSE.txt>`_ for information on the terms & conditions for usage of this software, and a DISCLAIMER OF ALL WARRANTIES.
 
